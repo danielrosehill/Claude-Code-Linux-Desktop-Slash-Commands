@@ -1,5 +1,9 @@
 # Claude Code Linux Desktop Slash Commands
 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-8A2BE2?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+[![Linux](https://img.shields.io/badge/Linux-Desktop-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+[![Platform](https://img.shields.io/badge/Platform-Ubuntu%2025.04+-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 A comprehensive collection of slash commands for Claude Code CLI designed to streamline system administration, optimization, and configuration tasks on Linux desktop systems (Ubuntu, Debian-based distributions).
 
 ## Overview
@@ -187,6 +191,10 @@ Designed for:
 - **Display Server**: Wayland or X11
 - **Hardware**: AMD/Intel CPUs, AMD/NVIDIA GPUs
 - **Use Case**: Developer workstations, power user desktops, AI/ML systems
+
+## Related Repositories
+
+- **[Claude Slash Commands](https://github.com/danielrosehill/Claude-Slash-Commands)** - General collection of slash commands for Claude AI across various use cases and platforms
 
 ## Contributing Workflow
 
