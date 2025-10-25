@@ -1,5 +1,7 @@
 # Claude Code Linux Desktop Slash Commands
 
+![alt text](banner.png)
+
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-8A2BE2?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
 [![Linux](https://img.shields.io/badge/Linux-Desktop-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![Platform](https://img.shields.io/badge/Platform-Ubuntu%2025.04+-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -84,70 +86,73 @@ commands/security/probe-vulnerabilities.md → commands-flat/security-probe-vuln
 
 ## Categories
 
-### [AI/ML Setup](./ai-setup)
-Local inference, GPU configuration, model management, speech-to-text setup
+### [AI Tools](./commands/ai-tools)
+Local AI inference (Ollama), GPU configuration, model management, speech-to-text setup, ComfyUI
 
-### [Backup](./backup)
-Backup planning, target identification, backup strategies
+### [Audio](./commands/audio)
+PipeWire optimization and audio configuration
 
-### [Configuration](./configuration)
+### [Backup](./commands/backup)
+Backup planning, target identification, backup strategies, cloud storage setup (rclone, B2, AWS)
+
+### [Configuration](./commands/configuration)
 Git config, SSH keys, MCP servers, API keys, environment management
 
-### [Debugging](./debugging)
+### [Debugging](./commands/debugging)
 System diagnostics, troubleshooting, crash analysis, performance debugging
 
-### [Development Tools](./development-tools)
+### [Development Tools](./commands/dev-tools)
 Docker setup, IDE suggestions, VS Code optimization
 
-### [Filesystem Organization](./filesystem-organization)
+### [Filesystem Organization](./commands/filesystem-organization)
 File organization, folder consolidation, structure optimization
 
-### [Hardware](./hardware)
-Hardware profiling, GPU management, font management, wake device control
+### [Fonts](./commands/fonts)
+Font management, Google Fonts installation
 
-### [Installation](./installation)
+### [Hardware](./commands/hardware)
+Hardware profiling, GPU management, wake device control
+
+### [Installation](./commands/installation)
 CLI tool installation (gh, pipx, brew, rclone, AWS CLI, B2 CLI)
 
-### [Management](./mgmt)
+### [Management](./commands/mgmt)
 Repository management utilities
 
-### [Media](./media)
+### [Media](./commands/media)
 Codec checking and recommendations
 
-### [Miscellaneous](./misc)
-General utilities and commands
-
-### [Network](./network)
+### [Network](./commands/network)
 LAN scanning, connectivity diagnostics, network troubleshooting
 
-### [Optimization](./optimisation)
+### [Optimization](./commands/optimisation)
 System optimization and performance tuning
 
-### [Package Management](./package-management)
+### [Package Management](./commands/package-management)
 Package cleanup, software evaluation, repository management
 
-### [Program Management](./program-management)
+### [Program Management](./commands/program-management)
 Application management and organization
 
-### [Python Environments](./python-environments)
-pyenv, conda environments for data analysis, ROCm, LLM/STT fine-tuning
+### [Python](./commands/python)
+pyenv setup, conda environments for data analysis, ROCm, LLM/STT fine-tuning
 
-### [Repositories](./repositories)
+### [Repositories](./commands/repositories)
 Repository management and version control
 
-### [Security](./security)
+### [Security](./commands/security)
 Vulnerability scanning, spyware detection, firewall analysis, security auditing
 
-### [Storage](./storage)
+### [Storage](./commands/storage)
 Storage health monitoring, BTRFS/Snapper checks, RAID configuration, network mounts
 
-### [System Health](./system-health)
-Boot logs, slowdown diagnosis, health checkups, optimization
+### [System Health](./commands/system-health)
+Boot logs, slowdown diagnosis, health checkups, system upgrades, startup services
 
-### [Utilities](./utilities)
-Printer diagnostics, audio optimization, general system utilities
+### [Utilities](./commands/utilities)
+Printer diagnostics, general system utilities
 
-### [Virtualization](./virtualization)
+### [Virtualization](./commands/virtualization)
 Virtualization capabilities and configuration
 
 ## Related
