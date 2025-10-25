@@ -3,6 +3,8 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-8A2BE2?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
 [![Linux](https://img.shields.io/badge/Linux-Desktop-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![Platform](https://img.shields.io/badge/Platform-Ubuntu%2025.04+-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Claude Code Projects](https://img.shields.io/badge/Claude%20Code-Projects%20Index-8A2BE2?logo=anthropic&logoColor=white)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Index](https://img.shields.io/badge/GitHub-Master%20Index-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Github-Master-Index)
 
 A comprehensive collection of slash commands for Claude Code CLI designed to streamline system administration, optimization, and configuration tasks on Linux desktop systems.
 
