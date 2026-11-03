@@ -8,6 +8,8 @@
 
 ![alt text](banner.png)
 
+**Write-up:** [Claude Code plugins for non-coding work: homelab, data, media and admin](https://blog.danielrosehill.com/posts/claude-code-plugins-non-coding-workflows-xlkdop/)
+
 A collection of slash commands for Claude Code CLI designed to streamline system administration, optimization, and configuration tasks on Linux desktop systems. 
 
 Also provided: a script for setting up a repo-style workspace for Claude Code to focus on sysadmin tasks. The script populates a `CLAUDE.md` describing the purpose and creates (or on subsequent runs non-destructively syncs) the slash command library in this repo.
